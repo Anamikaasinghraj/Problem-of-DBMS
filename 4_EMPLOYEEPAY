@@ -1,4 +1,4 @@
-3. Database Schema for a Employee-pay scenario
+4. Database Schema for a Employee-pay scenario
 employee(emp_id : integer, emp_name: string)
 department(dept_id: integer, dept_name:string)
 paydetails(emp_id : integer, dept_id: integer, basic: integer, deductions: integer, additions:
